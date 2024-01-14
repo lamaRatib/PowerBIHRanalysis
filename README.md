@@ -1,6 +1,5 @@
-# PowerBIHRanalysis
-## Case study:
-  HR analytics in Power BI
+# Case study:
+  HR analytics in Power BI for Atlas Labs company
 ## Case study goals:
 primary goal: Monitor key HR metrics on employees
 
